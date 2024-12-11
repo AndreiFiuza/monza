@@ -1,6 +1,6 @@
 # monza
 
-![](./layout.png)
+![](./monza2.png)
 
 ---
 ## Sobre
@@ -17,12 +17,3 @@ o intuito desde projeto é colocar em pratica o conhecimento adquirido sobre aas
 ---
 # Autor
 - [Andrei Fiuza]()
-# monza
-# monza2
-# monza2
-# monza2
-# monza2
-# monza
-# monza-layout
-# monza-layout
-# monza
